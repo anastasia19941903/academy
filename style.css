@@ -1,0 +1,112 @@
+body {
+    background-image: url(img/7.jpg);
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+    }
+.profile
+{
+    color:deeppink;
+    text-align: center;
+    font-family: Calibri,sans-serif;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.red
+{
+    color: mediumvioletred;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: "Comic Sans MS", serif;
+}
+.red_h1
+{
+    color: mediumvioletred;
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+}
+.green
+{
+    color: green;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: "Comic Sans MS", serif;
+}
+.green_h1
+{
+    color: green;
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+}
+.blue
+{
+    color: blue;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: "Comic Sans MS", serif;
+}
+.blue_h1
+{
+    color: blue;
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+}
+img
+{
+    width: 500px;
+    height: 500px;
+}
+.img1
+{
+    width: 100px;
+    height: 100px;
+}
+
+.tab
+{
+    font-size: 19px;
+    font-family: "Comic Sans MS", serif;
+}
+.site
+{
+
+    font-size: 17px;
+    font-family: "Comic Sans MS", serif;
+
+}
+div
+{
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+
+}
+p
+{
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+
+}
+
+table
+{
+
+    width: 80%;
+    border-spacing: 20px 30px; /* Расстояние между ячейками */
+}
+tr,td,th
+{
+    border: 1px solid #fff; /* Рамка вокруг ячеек */
+    background: #f6d654 url(img/6.jpg) repeat-y;
+    padding: 5px; /* Поля вокруг текста */
+}
+.leftimg
+{
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
